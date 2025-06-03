@@ -4,7 +4,7 @@ Objective -
 Understand what makes a password strong and test it using an online password strength checker.
 
 Tool Used
-- [passwordmeter.com](https://www.passwordmeter.com)
+- [passwordmonster.com](https://www.passwordmonster.com/)
 
 Passwords Tested
 1. `password123` — Weak (Low score, no symbols or uppercase)
