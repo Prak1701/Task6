@@ -10,16 +10,17 @@ Passwords Tested
 1. `password123` — Weak (Low score, no symbols or uppercase)
 2. `Password123` — Medium (Added uppercase letter)
 3. `P@ssw0rd123!` — Strong (Symbols, numbers, upper & lower case)
-4. `T1m3$Are#Ch@ng1ng!` — Very Strong (Complex, long, unpredictable)
+4. 
+5. `T1m3$Are#Ch@ng1ng!` — Very Strong (Complex, long, unpredictable)
 
 Screenshot
 - List of Passwords I created.
 
-![Image](https://github.com/user-attachments/assets/80b51f9c-02f2-4306-b424-3255371b9c59)
+![Image](https://github.com/user-attachments/assets/320b0d65-fc90-46aa-aedd-3887a206c83e)
 
 - A screenshot is attached showing the strongest password tested.
 
-![Image](https://github.com/user-attachments/assets/320b0d65-fc90-46aa-aedd-3887a206c83e)
+![Image](https://github.com/user-attachments/assets/80b51f9c-02f2-4306-b424-3255371b9c59)
 
 Key Learnings
 - Strong passwords include:
