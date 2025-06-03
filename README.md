@@ -15,11 +15,11 @@ Passwords Tested
 Screenshot
 - List of Passwords I created.
 
-ss
+![Image](https://github.com/user-attachments/assets/80b51f9c-02f2-4306-b424-3255371b9c59)
 
 - A screenshot is attached showing the strongest password tested.
 
-ss
+![Image](https://github.com/user-attachments/assets/320b0d65-fc90-46aa-aedd-3887a206c83e)
 
 Key Learnings
 - Strong passwords include:
