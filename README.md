@@ -10,7 +10,7 @@ Passwords Tested
 1. `password123` — Weak (Low score, no symbols or uppercase)
 2. `Password123` — Medium (Added uppercase letter)
 3. `P@ssw0rd123!` — Strong (Symbols, numbers, upper & lower case)
-4. 
+4. `W3lc0me@2024` — Strong (Mix of uppercase, lowercase, numbers, and a symbol)
 5. `T1m3$Are#Ch@ng1ng!` — Very Strong (Complex, long, unpredictable)
 
 Screenshot
